@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Excellencies order, to the severall colonels of the army, concerning provision of quarter, diet, physick and attendance for the sick souldiers of their severall regiments.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02492</idno>
+            <idno type="STC">Wing C7123</idno>
+            <idno type="STC">ESTC R219322</idno>
+            <idno type="EEBO-CITATION">51617694</idno>
+            <idno type="OCLC">ocm 51617694</idno>
+            <idno type="VID">175194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175194)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2719:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Excellencies order, to the severall colonels of the army, concerning provision of quarter, diet, physick and attendance for the sick souldiers of their severall regiments.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated and signed: Given under my hand the seventh day of October, 1650. O. Cromwell.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Medical care --  Early works to 1800.</term>
+               <term>Soldiers --  Great Britain --  Early works to 1800.</term>
+               <term>Military hygiene --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="order_concerning_care_of_sick_soldiers">
+            <pb n="1" facs="tcp:175194:1" rendition="simple:additions"/>
+            <head>His Excellencies Order, to the ſeverall Colonels of the Army, concerning pro<g ref="char:EOLhyphen"/>viſion of Quarter, Diet, Phyſick and Attendance for the ſick Souldiers of their ſeverall Regiments.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas I am informed, that for want of putting things into order, the ſick Souldiers in your Regiment are not provided for, neither can be mini<g ref="char:EOLhyphen"/>ſtred unto by the Phyſicians of the Army, for the recovery of them out of their ſeverall Diſeaſes and Sickneſſes: and foraſ<g ref="char:EOLhyphen"/>much as it is neceſſary for the ends aforeſaid, and for the equall and certain diſtribution of Medicines for their recovery, I have thought fit, and do hereby re<g ref="char:EOLhyphen"/>quire, that you take care, that the ſick Souldiers of your Regiments, be from time to time put into warm and good Quarters, and that you appoint one Officer of your Regiment, together with a Chirurgion or Chirurgions Mate, and ſuch other affiſtance as ſhall be thought neceſſary; and that you give the ſaid Officer particular Inſtructions in writing, and authority to fur<g ref="char:EOLhyphen"/>niſh the ſaid ſick perſons ſo quartered as aforeſaid, with warm and fitting Diet, ſuteable to their reſpective
+<pb n="2" facs="tcp:175194:2"/>Diſeaſes, ſuch as the Phyſicians of the Army ſhall di<g ref="char:EOLhyphen"/>rect, and may be procured in this and the adjacent parts; and that ſuch women and keepers of the ſaid ſick perſons, be hired to attend and help the ſaid ſick perſons, and provide their Diet, as are neceſſary. And you are further required to cauſe the pay belonging un<g ref="char:EOLhyphen"/>to the ſaid ſick Souldiers out of their reſpective Com<g ref="char:EOLhyphen"/>panies to be delivered to the ſaid Officer, or ſuch as he ſhall appoint, for the providing Diet and other neceſſa<g ref="char:EOLhyphen"/>ries for the relief of the ſaid ſick Souldiers: And if it ſhall fall out, that the ſaid Pay will not ſufficiently provide for the neceſsities and other occaſions, as a<g ref="char:EOLhyphen"/>foreſaid, upon Certiffcate of the ſame under your hand made to my Self or the Major Generall, you ſhall have warrant for money to make a neceſſary ſupply for the ends aforeſaid: And of any proviſions that are in the Stores of the Army, upon certificate under your hand of the want thereof, your Officer aforeſaid, or any o<g ref="char:EOLhyphen"/>ther aſsigned by him, ſhall receive from time to time of the keepers of the Stores, a ſupply proportionable to the number of the ſick Souldiers of your Regiment: And your Chirurgion or Chirurgions Mate aforeſaid, ſhall receive from the Apothecaries to the Army, a ſupply of ſuch Medicaments in their cuſtodie, to the uſe of the Army, as by the Phyſicians of the Army ſhall be judged proper and proportionable for the ſaid ſick Souldiers.</p>
+            <closer>
+               <dateline>Given under my hand <date>the ſeventh day of <hi>October,</hi> 1650.</date>
+               </dateline> 
+               <signed>O. CROMWELL.</signed>
+            </closer>
+         </div>
+         <div type="medicinal_advice_concerning_the_flux">
+            <pb n="3" facs="tcp:175194:2"/>
+            <head>Advice for Prevention and Cure of the <hi>FLUX.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>OR preſervation of Souldiers from the Flux now prevalent in the Army, becauſe it is contagious, and the Diſeaſe commu<g ref="char:EOLhyphen"/>nicated by infection from the ill Sent of the Sick, where many are together, as al<g ref="char:EOLhyphen"/>ſo in reſpect of the common cauſe of ill Diet, by bad Waters, and other drink they drink, and cold lodg<g ref="char:EOLhyphen"/>ings<g ref="char:punc">▪</g> care muſt be had to ſever the Sick from the Whole.</p>
+            <p>Thoſe who can have Ale or Beer, may for preven<g ref="char:EOLhyphen"/>tion, mixe ſome Rice with the Corn they brew withal, though but in a ſmall quantitie, and hang either beat<g ref="char:EOLhyphen"/>ings of Iron as they are had from the Smiths Forge, or other old Iron, or gadds of new Steel in a bag, or any way in the middle of the Veſſell, a ſmall quantitie will ſerve diverſe Gallons, or elſe to quench ſome Iron or gads of Steel (of which there are ſome twelve dozen ſent) in the drink before the drinking of it immediatly: And ſo for Water when Ale or Beer is not to be had, and the drinking of Water firſt boyled with Rice is a good preſervative. And becauſe cold lodging, or the lodging of the common Souldiers on the ground can<g ref="char:EOLhyphen"/>not be well prevented, to ſuch more eſpecially a red ſtrong Water (which is ſent) the quantitie of one ſpoonfull mixed with their Drink, Ale or Water, I ſhal recommend from experience in former Camps, which alſo in ſome few drops, with a ſpoonfull of broken or
+<pb n="4" facs="tcp:175194:3"/>powdred Bisket, is a good Break-faſt, or a good Colla<g ref="char:EOLhyphen"/>tion in the night for a Sentinell or Perdue, to preſerve himſelf from cold, hunger, and danger of the Flux. And by way of prevention, there would be great care had of Bisket, which even at Sea oftentimes by ill ſtowage &amp; neglect in lying too cloſe, and receiving moiſture, doth beget a dry moulding on the ſuperficies of it, which if not wiped off and well cleanſed, doth cauſe by its of<g ref="char:EOLhyphen"/>fence to the bowels oftentimes great Fluxes: and to check that ill qualitie of the Bisket, as alſo of ill Aire and bad Water, the uſe of Garlick moderatly taken, is of much force, either boyled in Milk when it may be had, or in Ale or Water, or roſted, or in ſmall quantitie raw. And where any Water can be had from a Spring where any Chalk is, that is the beſt Water to avoyd this Diſeaſe, as alſo to make Medicines of for the Cure: In relation whereunto, there are ſome few Remedies ſent, and ſuch as rightly made uſe of, may be effectual: As firſt there is Conſerve of Sloes, of which ſome ſmall quantitie may be mixed with all the Water, (where other drink is not to be had) warm or cold, e<g ref="char:EOLhyphen"/>ven upon a march, ſtrayned out by pouring of the thin from thick, after it hath been well ſhaken together, e<g ref="char:EOLhyphen"/>ven in a hat, where there is no cleaner nor better Veſ<g ref="char:EOLhyphen"/>ſell, and this may as often be uſed as thirſt calleth for moiſture: this Conſerve may alſo be eaten in the ſub<g ref="char:EOLhyphen"/>ſtance to the quantitie of a walnut, twice, or thrice, or oftner in a day.</p>
+            <p>Secondly, Rice powder (ſo written upon, and ha<g ref="char:EOLhyphen"/>ving ſome other ſmall mixture with it) may either be taken alone, a ſpoonfull or two at once, twice or thrice a day, or with any other food, or with Beer, Ale, or
+<pb n="5" facs="tcp:175194:3"/>Water, and eſpecially with Milk and Water when that can be had.</p>
+            <p>Thirdly, for the Flux, now frequent in the Army, I recommend this familiar Remedy, experimented in like Epidemicall Fluxes; Take of the ſhavings of new Deal board one handfull, one ſpoonfull of whole Ci<g ref="char:EOLhyphen"/>namon, of dry Balm (when it can be had, of which ſome ſtore is ſent) a quarter of a handfull; boyl theſe in an Ale quart, or ſome what more, of good Water, (with Milk when it may be had) to a pint; of this make three ſeverall draughts at 4. or 6. houres diſtance.</p>
+            <p>Fourthly, Take 3. or 4. ſpoonfulls of the red Water above-mentioned, in Ale or Milk, or Water, or alone, if the Sick be not much diſtempered with heat, once in 8. or 12. houres, for three or four times only.</p>
+            <p>Fiftly, and more eſpecially for thoſe who are very weak and diſtempered, and want reſt, there is ſent a Cordiall Electuary (one pot containing eight doſes) to take one doſe or eight part at night going to bed, and to waſh it down with a little Water boyled, or at leaſt ſtrayned with the powder of Rice flower above<g ref="char:EOLhyphen"/>mentioned, and this for two or three nights together, if need require, and in caſe of extremity.</p>
+            <p>And theſe are ſuch Remedies inwardly taken, as may be for common Souldiers where ever they fall ſick, or ſtand wel to preſerve them in their march or cure them.</p>
+            <p>Outwardly, if any Crabbs or wilde Apples come in their way, many Cobwebs which <hi>Scotland</hi> doth afford, and the powder of ſuch Tobacco pipes as have been moſt uſed, Chalk mixed together with a little bruiſed Garlick, all of theſe, or as many as may be had, mixed with ſome of the red Water (twice formerly mentio<g ref="char:EOLhyphen"/>ned)
+<pb n="6" facs="tcp:175194:4"/>or heat at fire, or cold, if fire be wanting, and ap<g ref="char:EOLhyphen"/>plyed to the belly, is a good remedie, with which alſo ſome of the powder written upon The aſtringent pow<g ref="char:EOLhyphen"/>der may be mixed, adding the whites of Eggs when they can be had.</p>
+            <p>To ſit over the fume of Ginger is very uſefull, and where there is very often and great provocation to ſtool, uſe the Red Water to moiſten the fundament, and put up a cloth wet in it as a Suppoſitorie.</p>
+            <p>Where Mutton may be had, and the looſneſſe hath long continued, Take the kidney of a Mutton, fat and all, cut it ſmall, boyl it with a litle Cinamon in a pottle of Water to a quart, drink of this ſtrained at the leaſt twice a day. This alſo where it can be made may be u<g ref="char:EOLhyphen"/>ſed before the Diſeaſe hath ſo long continued, and ad<g ref="char:EOLhyphen"/>ding a cruſt of Bisket, or ſome Rice, may be taken in ſtead of other broath, adding a few cornes of white Pepper.</p>
+            <div type="part">
+               <head>Advice concerning Dyet in <hi>Fluxes</hi> and <hi>Feavers.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>OR the ſick of the Flux, let foure parts of Wheat, and one part of Rice if it may be had, be boyled in ſuch a proportion of Water, as, after the Wheat is become very ſoft, even to a Gelley, may make it of the conſi<g ref="char:EOLhyphen"/>ſtence of ordinary Grewell: Then take Nutmegs and Cinamome, of each two parts, of Cloves one part; let them be beaten and mixed together; and at the end of
+<pb n="7" facs="tcp:175194:4"/>the boyling, as aforeſaid, put in, and ſtir together ſo much of theſe Spices, as may be taſted or give a reliſh; and no more: Put in alſo at the ſame time, to every Gallon, half a pint of red Wine, with two ounces of Sugar diſſolved in it.</p>
+               <p>The like may be made of powdered Bisket; or of Bread thin ſliced, boyled in Water to the conſiſtence of the former, and ſeaſoned with Spice, red Wine and Sugar, in proportion aforeſaid.</p>
+               <p>Of theſe Dyets may be given a Porrenger full to a man, two or three times a day, or oftener, as the Sto<g ref="char:EOLhyphen"/>mach doth require or bear it.</p>
+               <p>Eggs, when they may be had, are very good Dyet in this Caſe, whereof alſo ſometimes may be given one at a time raw, beaten in a Porrenger, and mixed with a ſpoonfull of red Wine, a little Nutmeg and Sugar.</p>
+               <p>Thoſe who have ſtronger ſtomachs to bear it, may take fat Mutton broath, with ſtore of knuckles, and broken bones, as alſo Kidneys with the Suet boyled in it: and they may be allowed to eat the meat, if they have appetite thereto.</p>
+               <p>For variety likewiſe; Puddings of Wheat flowre or meal, with Suet, and the Spices aforeſaid, well boyled or baked: as alſo flowre or meal of Wheat, boyled up to a good confiſtence with Milk or Water, and a little Spice (care being had by continual ſtirring, to prevent burning to) which may be eaten with a little good Butter, if it be to be had; may be allowed thoſe of ſtronger ſtomachs and appetites,</p>
+               <p>It would be alſo of great advantage, if all Beer given in this Diſeaſe were firſt boyled with whole Bisket, and Nutmegs thin cut, of each one to a Gallon, which
+<pb n="8" facs="tcp:175194:5"/>may after be drunk cold: and the Bisket ſo boyled and ſoaked till it be tender, is a good nouriſhment in this caſe, diſpoſing the leſſe to thirſt.</p>
+               <p>For thoſe that have higher Feavers with their Flu<g ref="char:EOLhyphen"/>xes, the Spice may be omitted in the Dyets before pre<g ref="char:EOLhyphen"/>ſcribed, and it may do well to take Barley prepared, in ſtead of Wheat, either alone, or rather with Rice (if it may be had) in the proportion aforeſaid.</p>
+               <p>The Drink in this caſe, may be Water boyled with whole Bisket, adding of red Wine half a pint or ſome<g ref="char:EOLhyphen"/>what more to every Gallon, and the Bisket, after ſoak<g ref="char:EOLhyphen"/>ing, may alſo be eaten.</p>
+               <p>For ſuch as have Feavers without Fluxes, Barley Grewell well boyled in a great quantity of Water, to to the ordinary conſiſtence, and ſeaſoned with white or Claret Wine and Sugar (taking to every Gallon, half a pint of the Wine, and about two ounces of the Sugar) would be a good Dyet: as alſo Oat-meal Grewell ſometimes for variety.</p>
+               <p>For Drink in extream heat and thirſt, Barley water, with a little Sugar (about two ounces to a Gallon at leaſt) and ſo much ſpirit of Vitriol, or Vineger for want thereof, as may give a pleaſant tartneſſe, would be very proper and advantageous.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
